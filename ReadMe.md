@@ -46,4 +46,32 @@ I made this detailed step-by-step guide.
 
 git, python, etc.
 
+### Get Repository
+
 ## How to use
+
+If everything is correctly set up you are ready to start. 
+Just watch the show and when new information arrives - 
+A *Matchbox* decision or a *Matching Night* - type it 
+in the Excel sheet [AYTO_Infos.xlsx] and save the file.
+
+### Excel file explanations
+
+In cells A1:A2 you can swap the labels depending on which group 
+contains 11 or 10 candidates. In B1:L2 you write down a list 
+of all candidates.
+
+For everything else please note that the members of the 10-group 
+are always written down on the left side. 
+
+A6:B15 contains all positive *Matchbox* decisions. (Matches)
+
+E6:F15 contains all negative *Matchbox* decisions. (No Matches)
+
+H4:I15 contains data for night Nr. 1. You write alle the 
+pairings in the cells H6:I15. In the cell I5 you write down the 
+number of lights that turned on.
+
+### Run the script
+
+### Results of the script explained
