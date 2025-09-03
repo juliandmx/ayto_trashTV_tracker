@@ -3,19 +3,29 @@
 ## Rules  of the show
 
 The show is **highly trashy** and I wouldn't 
-recommend it to anyone who likes interesting 
-conversations. But looking from a mathematical 
-perspective it is very interesting:
+recommend it to anyone who likes intellectual 
+conversations. But it gets interesting when 
+looking from a mathematical perspective!
 
 ### Setting
 
 10 persons from one hetero normative gender 
-and 11 from the other are placed int a villa 
+and 11 from the other are placed into a villa 
 and have a predefined "perfect match" which 
 they have to find. (one triple match included)
 
 They only win the show - and the prize money - 
 if everyone finds their match.
+
+Using math we can now find out how many 
+different possible solutions exist:
+
+11! possible placements for the members 
+of the bigger group to be positioned.
+And 10 different positions where the eleventh 
+can take place to create a triple pairing.
+
+11! * 10 = 399.168.000 different solutions.
 
 ... But matches can only be identified by two methods:
 
@@ -75,3 +85,5 @@ number of lights that turned on.
 ### Run the script
 
 ### Results of the script explained
+
+### How the script works
