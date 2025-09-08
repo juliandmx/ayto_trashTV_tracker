@@ -63,7 +63,8 @@ git, python, etc.
 If everything is correctly set up you are ready to start. 
 Just watch the show and when new information arrives - 
 A *Matchbox* decision or a *Matching Night* - type it 
-in the Excel sheet [AYTO_Infos.xlsx] and save the file.
+in the Excel sheet [AYTO Infos](AYTO_Infos.xlsx) and save the file.
+Then run the [python script](main.py).
 
 ### Excel file explanations
 
